@@ -1,3 +1,3 @@
 # html-crash-course
 HTML crash course
-esto es un desastre
+Html practice: https://www.youtube.com/watch?v=UB1O30fR-EE&ab_channel=TraversyMedia
